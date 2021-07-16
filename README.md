@@ -3,6 +3,6 @@
     <div align="center">
         <img src="https://github.com/lazarevand1997/lazarevand1997/blob/main/assets/fujiwara/fuji.gif">
     </div>
-    <h2 align="center">~ ✋🏽 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 👉🏽 ~</h1>
+    <h2 align="center">~ ✋🏽 𝓒𝓸𝓷𝓽𝓪𝓬𝓽𝓼 👉🏽 ~</h1>
      <img align="left" src="https://github.com/lazarevand1997/lazarevand1997/blob/main/assets/itachi/finger.gif"><br><br><br><br><a align="right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img align="center"  width="100.0px" height="100.0px" src="https://github.com/lazarevand1997/lazarevand1997/blob/main/assets/itachi/pressMe.png"></a>
 </body>
